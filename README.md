@@ -1,5 +1,6 @@
-### Hi there👋 This is Andrew, Welcome to my GitHub!
-Ruby/Rails/iOS app Developer
+### Hi there👋 
+### This is Andrew, Welcome to my GitHub!
+Ruby/Rails app Developer
 
 <!--
 **jrnalts/jrnalts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
