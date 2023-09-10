@@ -1,5 +1,3 @@
-### Hi there👋 
-### This is Andrew, Welcome to My GitHub!
 Ruby/Rails Developer
 
 - 3 years Ruby on Rails web framework experience.
