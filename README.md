@@ -2,6 +2,10 @@
 ### This is Andrew, Welcome to My GitHub!
 Ruby/Rails Developer
 
+- 3 years Ruby on Rails web framework experience.
+- Collaborative development in teams with more than 20 members, familiar with Git Flow 
+- Focus on code stability, write unit and integration tests with Rspec.
+
 <!--
 **jrnalts/jrnalts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
